@@ -1,6 +1,6 @@
 In the past, I am an experienced marketer:grin:, worked in diverse field of marketing. 
 
-Today, I am a Frontend Developer at online aggregator of shelters with pets information form, which helps them find new home :mending_heart:.<br>
+Today, I am a Frontend Developer at online aggregator of shelters with pets form, which helps them find new home :mending_heart:.<br>
 I have experience in: React, Typescript, Redux, REST API, Ant Design, Material UI, Tailwind, Next.js, Sass, CSS modules, yup, Formik, React Router, OAuth, JWT.
 
 ### Projects links:
