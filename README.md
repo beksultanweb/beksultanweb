@@ -1,7 +1,7 @@
 In the past, I am an experienced marketer:grin:, worked in diverse field of marketing: content creation:camera_flash:, analytics:mag_right: and digital advertising:gear:. 
 
 Today, I am a Frontend Developer on a “Help pet”, which helps pets find their new home :mending_heart:.<br>
-I have experience in: React, Typescript, Redux, REST API, Ant Design, Next.js, yup, React Router.
+I have experience in: React, Typescript, Redux, REST API, Ant Design, Material UI, Tailwind, Next.js, Sass, CSS modules, yup, Formik, React Router.
 
 ### Projects links:
 A good example of code, Test task for Musan Group [DEMO](https://friendly-tarsier-5957a8.netlify.app/) (React, Typescript, Redux, Ant Design, Tailwind) [repository](https://github.com/beksultanweb/musan-group-test-task)<br>
