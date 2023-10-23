@@ -1,4 +1,4 @@
-I have experience in: React, Typescript, Redux, REST API, Ant Design, Material UI, Tailwind, Next.js, Sass, CSS modules, yup, Formik, React Router, OAuth, JWT.
+I have experience in: React, Typescript, Redux, REST API, Tailwind, Next.js, Sass, CSS modules and etc.
 
 ### Projects links:
 A good example of code, Test task for Musan Group [DEMO](https://friendly-tarsier-5957a8.netlify.app/) (React, Typescript, Redux, Ant Design, Tailwind) [repository](https://github.com/beksultanweb/musan-group-test-task)<br>
